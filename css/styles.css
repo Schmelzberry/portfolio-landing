@@ -23,6 +23,7 @@ img {
   border: 2px solid orange;
   padding: 5px;
   margin-bottom: 10px;
+  
 }
 
 .column {
@@ -53,5 +54,13 @@ img {
 #beertalk {
   font-family:Arial;
   font-weight:bold;
+  
+}
+
+.button {
+  border: none;
+  color:yellow
+  padding: 10px 20px;
+  text-align: center;
   
 }
