@@ -1,5 +1,5 @@
 .chillin {
-  color:black;
+  
   font-family: Arial; 
 }
 
@@ -41,7 +41,7 @@ img {
   font-weight:bold
 }
 .box1 {
-  width:30%;
+  width:24.5%;
   border: solid orange;
   border-width: 2px;
   background-color: yellow;
