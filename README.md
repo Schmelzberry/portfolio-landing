@@ -21,4 +21,4 @@ No known issues
 ## License
 Please contact me if you have issues with the site or have questions, ideas, or concerns.
 
-Copyright (c) 2023 Jake Elsberry
+Copyright (c) 2023 Jake Elsberry - all rights reserved
