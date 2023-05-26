@@ -21,6 +21,7 @@ img {
   float: left;
   background-color: yellow;
   font-family:Arial;
+  border: 2px solid green;
 }
 
 .column {
@@ -30,7 +31,7 @@ img {
 }
 
 .highlight {
-  color:rgb(33, 104, 45);
+  color:rgb(9, 43, 14);
   
 }
 .highlight2 {
