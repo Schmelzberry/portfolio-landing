@@ -21,7 +21,8 @@ img {
   float: left;
   background-color: yellow;
   font-family:Arial;
-  border: 2px solid green;
+  border: 2px solid red;
+  padding: 4px;
 }
 
 .column {
