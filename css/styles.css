@@ -33,3 +33,12 @@ img {
   color:rgb(33, 104, 45);
   
 }
+.highlight2 {
+  color:steelblue;
+  font-weight:bold
+}
+.column2 {
+  width: 300px;
+  float: right;
+  font-family: Arial;
+}
