@@ -21,8 +21,9 @@ img {
   float: left;
   background-color: yellow;
   font-family:Arial;
-  border: 2px solid red;
+  border: 2px solid orange;
   padding: 4px;
+  margin-bottom: 10px;
 }
 
 .column {
@@ -39,8 +40,19 @@ img {
   color:steelblue;
   font-weight:bold
 }
-.column2 {
-  width: 300px;
-  float: right;
-  font-family: Arial;
+.box1 {
+  width:50%;
+  border: solid black;
+  border-width: 2px;
+  background-color: orange;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+.box2 {
+  width:50%;
+  border: solid black;
+  border-width: 2px;
+  background-color: orange;
+  margin-bottom: 10px;
+  box-sizing: border-box;
 }
