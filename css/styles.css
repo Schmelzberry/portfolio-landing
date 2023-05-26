@@ -44,9 +44,13 @@ img {
   border: solid orange;
   border-width: 2px;
   background-color: yellow;
-  margin-bottom: 10px;
+  margin: 10px;
   box-sizing: border-box;
   font-family:fantasy;
   
 }
-
+#beertalk {
+  font-family:Arial;
+  font-weight:bold;
+  
+}
