@@ -1,7 +1,21 @@
 .chillin {
-  color:green; 
+  color:black; 
 }
 
 h1 {
     color:blue;
+    text-align: center;
+
+}
+
+img {
+  width:200px;
+  height:200px;
+  float:right
+}
+
+.sidebar{
+  width: 30%
+  float: right;
+  background-color: green;
 }
