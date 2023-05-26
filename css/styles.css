@@ -3,7 +3,7 @@
   font-family: Arial; 
 }
 
-h1 {
+.h1 {
     color:blue;
     text-align: center;
     font-family:Arial
@@ -29,7 +29,7 @@ img {
   font-family: Arial;
 }
 
-highlight {
-  color:aquamarine;
+.highlight {
+  color:rgb(33, 104, 45);
   
 }
