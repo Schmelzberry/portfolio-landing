@@ -22,7 +22,7 @@ img {
   background-color: yellow;
   font-family:Arial;
   border: 2px solid orange;
-  padding: 4px;
+  padding: 5px;
   margin-bottom: 10px;
 }
 
@@ -41,18 +41,12 @@ img {
   font-weight:bold
 }
 .box1 {
-  width:50%;
-  border: solid black;
+  width:30%;
+  border: solid orange;
   border-width: 2px;
-  background-color: orange;
+  background-color: yellow;
   margin-bottom: 10px;
   box-sizing: border-box;
+  
 }
-.box2 {
-  width:50%;
-  border: solid black;
-  border-width: 2px;
-  background-color: orange;
-  margin-bottom: 10px;
-  box-sizing: border-box;
-}
+
