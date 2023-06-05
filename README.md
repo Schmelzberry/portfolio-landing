@@ -20,6 +20,6 @@ Open https://schmelzberry.github.io/portfolio-landing/ in your browser.
 No known issues
 
 ## License
-MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Copyright (c) 5/26/2023 Jake Elsberry - all rights reserved
