@@ -2,11 +2,12 @@
 
 #### By Jake Elsberry
 
-#### A website for my portfolio and to introduce myself to potential employers.
+#### A website for my portfolio
 
 ## Technologies Used
 HTML,
 CSS
+Bootstrap
 
 ## Description
 
@@ -22,4 +23,4 @@ No known issues
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Copyright (c) 5/26/2023 Jake Elsberry - all rights reserved
+Copyright (c) 8/4/2023 Jake Elsberry - all rights reserved

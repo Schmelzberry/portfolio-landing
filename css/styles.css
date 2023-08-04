@@ -4,8 +4,12 @@ body {
   background-attachment: fixed;
 }
 h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  border: solid rgb(70,35, 197);
+  border-style: groove;
+  width:200px;
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif
+  
 }
 
 h2 {
@@ -22,7 +26,7 @@ img {
   width: 250px;
   float: right;
   font-family: Arial, Helvetica, sans-serif;
-  border: solid black;
+  border: solid rgb(70, 35, 197);
   border-radius: 20px;
   padding: 10px;
   display:block;
@@ -36,46 +40,29 @@ img {
   width: 250px;
   float:left;
   font-family: Arial, Helvetica, sans-serif;
-  border: solid black;
+  border: solid rgb(70, 35, 197);
   border-radius: 20px;
   padding: 10px;
   display:block;
   margin:0px auto;
+  margin-top:10px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 
 .column-container {
   display:flex;
-  justify-content: space-between;
+  justify-content: space-around;
   justify-self: center;
 }
 
-
-.button {
-  border: none;
-  color: yellow padding: 10px 20px;
-  text-align: center;
+.column-container2 {
+  display:flex;
+  justify-content: space-around;
+  justify-self: center;
 }
 
-.GFG {
-  background-color: steelblue;
-  border: 2px solid black;
-  color: yellow;
-  padding: 3px 6px;
-  text-align: center;
-  display: inline block;
-  font-size: 20px;
-  margin: 10px 30px;
-  cursor: pointer;
-  text-decoration: none;
-}
-/* select by ID of pro and select p element within that specific div */
-#pro p {
-  text-align: center;
-}
-
-#fav img {
-align-items: center;
-justify-content: center;
-
+.bootcamp {
+  color: blue;
 }
