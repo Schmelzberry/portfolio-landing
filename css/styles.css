@@ -8,10 +8,14 @@ h1 {
   font-family: Arial, Helvetica, sans-serif
 }
 
+h2 {
+  text-align:center;
+}
+
 img {
   width: 200px;
   height: 200px;
-  float: right
+  float:right
 }
 
 .column {
@@ -19,11 +23,16 @@ img {
   float: right;
   font-family: Arial, Helvetica, sans-serif;
   border: solid black;
+  border-radius: 20px;
+  padding: 10px;
+  display:block;
+  margin:0px auto;
 }
 
 .column-container {
   display:flex;
   justify-content: space-between;
+  justify-self: center;
 }
 
 
@@ -44,4 +53,14 @@ img {
   margin: 10px 30px;
   cursor: pointer;
   text-decoration: none;
+}
+/* select by ID of pro and select p element within that specific div */
+#pro p {
+  text-align: center;
+}
+
+#fav img {
+align-items: center;
+justify-content: center;
+
 }
