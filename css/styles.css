@@ -9,6 +9,21 @@ h1 {
   border-style: groove;
   width:200px;
   text-align: center;
+  justify-self: center;
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
   
 }
 
@@ -19,7 +34,7 @@ h2 {
 img {
   width: 200px;
   height: 200px;
-  float:right
+  margin-top: 20px;
 }
 
 .column {
