@@ -95,10 +95,24 @@ h1 img {
 }
 #hay img {
   height:auto;
-  width:200px;
+  width: 150px;
   border-radius: 20px;
 }
 
 #hay p {
   text-align: center;
+}
+
+.card {
+  border:dashed rgb(70, 35, 197);
+  margin:0px auto;
+  margin-top:10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: right;
+}
+
+.card img {
+  height:auto;
+  width:200px;
 }
