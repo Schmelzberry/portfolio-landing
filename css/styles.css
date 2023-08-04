@@ -89,7 +89,16 @@ h1 img {
   color: blue;
 }
 
+#hay {
+  margin: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
 #hay img {
   height:auto;
   width:200px;
+  border-radius: 20px;
+}
+
+#hay p {
+  text-align: center;
 }

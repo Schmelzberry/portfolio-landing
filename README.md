@@ -5,7 +5,7 @@
 #### A website for my portfolio
 
 ## Technologies Used
-HTML,
+HTML
 CSS
 Bootstrap
 
