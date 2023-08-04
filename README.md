@@ -14,11 +14,12 @@ This application serves to show off the basic skills I've gained in my first wee
 
 ## Setup/Installation Requirements
 Have a machine that can open portfolio-landing/index.html in a web browser.
+Open https://schmelzberry.github.io/portfolio-landing/ in your browser.
 
 ## Known Bugs
 No known issues
 
 ## License
-Please contact me if you have issues with the site or have questions, ideas, or concerns.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Copyright (c) 5/26/2023 Jake Elsberry - all rights reserved
