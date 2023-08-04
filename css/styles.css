@@ -8,6 +8,7 @@ h1 {
   font-family: Arial, Helvetica, sans-serif;
   border: solid rgb(70, 35, 197);
   border-style: groove;
+  border-radius: 20px;
   text-align: center;
   justify-self: center;
   animation-duration: 3s;
