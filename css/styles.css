@@ -1,7 +1,6 @@
-.chillin {
-  font-family: Arial;
+body {
+  background-image: linear-gradient(Yellow, blue );
 }
-
 .h1 {
   color: blue;
   text-align: center;
@@ -14,28 +13,11 @@ img {
   float: right
 }
 
-.sidebar {
-  width: 30% float: left;
-  background-color: yellow;
-  font-family: fantasy;
-  border: 2px solid orange;
-  padding: 5px;
-  margin-bottom: 10px;
-}
-
 .column {
   width: 300px;
   float: left;
   font-family: Arial;
-}
-
-.highlight {
-  color: rgb(214, 212, 52);
-}
-
-.highlight2 {
-  color: steelblue;
-  font-weight: bold
+  border: solid black;
 }
 
 .box1 {
@@ -47,11 +29,6 @@ img {
   padding: 3px;
   box-sizing: border-box;
   font-family: fantasy;
-}
-
-#beertalk {
-  font-family: Arial;
-  font-weight: bold;
 }
 
 .button {
