@@ -104,6 +104,7 @@ h1 img {
 }
 
 .card {
+  font-family: Arial, Helvetica, sans-serif;
   text-align:center;
   border:dashed rgb(70, 35, 197);
   margin:0px auto;
